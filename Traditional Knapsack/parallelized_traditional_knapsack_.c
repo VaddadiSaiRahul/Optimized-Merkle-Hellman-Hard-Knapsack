@@ -325,12 +325,12 @@ int main(void){
 		
 		
 		int m = generate_modulus(knapsack,n,W);
-		printf("\n\nModulus is  : %d",m);
+//		printf("\n\nModulus is  : %d",m);
 		
 
 		int public_array[n];
 		int *public_key = generate_public_key(knapsack,public_array,n,m,W);
-		displaypublickey(public_key,n);
+//		displaypublickey(public_key,n);
 		
 		
 		printf("\n\nEnter message to be encoded : ");
