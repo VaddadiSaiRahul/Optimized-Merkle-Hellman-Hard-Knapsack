@@ -1,0 +1,14 @@
+Superincreasing sequences : 
+1. (a) Elements : 1 2 4 9 20 38
+   (b) Capacity : 23
+
+2. (a) Elements : 1 2 4 10 20 40
+   (b) Capacity : 31
+
+3. (a) Elements : 2 7 11 21 42 89 180 354
+   (b) Capacity : 706
+
+
+Non Superincreasing Sequence :
+(a) Elements : 180 7 2 21 11 354 89 42 (* its permutations as well)
+(b) Capacity : Any weight
