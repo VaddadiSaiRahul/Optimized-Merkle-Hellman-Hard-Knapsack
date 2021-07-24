@@ -12,4 +12,4 @@ Descriptions :
 
 3. Hard Knapsack folder contains 2 files - one which is a serialized version of hard merkle-hellman and the other a dp parallelized version.
 
-For detailed understanding of the system, check my paper https://cit.iict.bas.bg/CIT-2021/v-21-2/10341-Volume21_Issue_2-05_paper.pdf.
+For detailed understanding of the system, check out my paper https://cit.iict.bas.bg/CIT-2021/v-21-2/10341-Volume21_Issue_2-05_paper.pdf.
