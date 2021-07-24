@@ -1,7 +1,6 @@
-Superincreasing sequences : 
+Superincreasing sequence : 
 (a) Elements : 2 7 11 21 42 89 180 354
 (b) Capacity : 706
-
 
 Non Superincreasing Sequence :
 (a) Elements : 180 7 2 21 11 354 89 42 (* its permutations as well)
